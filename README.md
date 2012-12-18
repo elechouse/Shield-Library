@@ -10,6 +10,9 @@ you can clone some shield library like this:
     
     # get Relay Shield library
     git clone https://github.com/yexiaobo-seeedstudio/Relay_Shield.git
+    
+    # other library will be like:
+    git clone https://github.com/yexiaobo-seeedstudio/other_shield_library.git
 
 Because all the library refrence to yexiaobo-seeedstudio account.
 
