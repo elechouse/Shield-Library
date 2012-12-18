@@ -10,3 +10,6 @@
 [submodule "Ethernet_Shield_V2.0"]
 	path = Ethernet_Shield_V2.0
 	url = https://github.com/yexiaobo-seeedstudio/Ethernet_Shield_V2.0.git
+[submodule "E-ink_Display_Shield"]
+	path = E-ink_Display_Shield
+	url = https://github.com/yexiaobo-seeedstudio/E-ink_Display_Shield.git
