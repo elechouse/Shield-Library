@@ -1,3 +1,6 @@
 [submodule "Relay_Shield"]
 	path = Relay_Shield
 	url = https://github.com/yexiaobo-seeedstudio/Relay_Shield.git
+[submodule "WIFI_Shield"]
+	path = WIFI_Shield
+	url = https://github.com/yexiaobo-seeedstudio/WIFI_Shield.git
