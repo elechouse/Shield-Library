@@ -3,9 +3,11 @@ Shield-Library
 
 Seeed Studio Shield library
 
-All the library will be stay here as submodule.
+All the library will be stored here as git submodule.
 
 ### Get some Shield library ###
+Because all the library refrence to yexiaobo-seeedstudio account.
+
 you can clone some shield library like this:
     
     # get Relay Shield library
@@ -13,8 +15,6 @@ you can clone some shield library like this:
     
     # other library will be like:
     git clone https://github.com/yexiaobo-seeedstudio/other_shield_library.git
-
-Because all the library refrence to yexiaobo-seeedstudio account.
 
 ### Get all library ###
 
