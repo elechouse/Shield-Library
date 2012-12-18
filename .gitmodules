@@ -4,3 +4,6 @@
 [submodule "WIFI_Shield"]
 	path = WIFI_Shield
 	url = https://github.com/yexiaobo-seeedstudio/WIFI_Shield.git
+[submodule "TFT_Touch_Shield"]
+	path = TFT_Touch_Shield
+	url = https://github.com/yexiaobo-seeedstudio/TFT_Touch_Shield.git
