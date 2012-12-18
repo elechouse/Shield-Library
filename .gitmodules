@@ -13,3 +13,6 @@
 [submodule "E-ink_Display_Shield"]
 	path = E-ink_Display_Shield
 	url = https://github.com/yexiaobo-seeedstudio/E-ink_Display_Shield.git
+[submodule "Music_Shield"]
+	path = Music_Shield
+	url = https://github.com/yexiaobo-seeedstudio/Music_Shield.git
