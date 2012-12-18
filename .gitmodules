@@ -16,3 +16,18 @@
 [submodule "Music_Shield"]
 	path = Music_Shield
 	url = https://github.com/yexiaobo-seeedstudio/Music_Shield.git
+[submodule "Motor_Shield"]
+	path = Motor_Shield
+	url = https://github.com/yexiaobo-seeedstudio/Motor_Shield.git
+[submodule "EL_Shield"]
+	path = EL_Shield
+	url = https://github.com/yexiaobo-seeedstudio/EL_Shield.git
+[submodule "Bluetooth_Shield"]
+	path = Bluetooth_Shield
+	url = https://github.com/yexiaobo-seeedstudio/Bluetooth_Shield.git
+[submodule "CAN_BUS_Shield"]
+	path = CAN_BUS_Shield
+	url = https://github.com/yexiaobo-seeedstudio/CAN_BUS_Shield.git
+[submodule "NFC_Shield"]
+	path = NFC_Shield
+	url = https://github.com/yexiaobo-seeedstudio/NFC_Shield.git
