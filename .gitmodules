@@ -7,3 +7,6 @@
 [submodule "TFT_Touch_Shield"]
 	path = TFT_Touch_Shield
 	url = https://github.com/yexiaobo-seeedstudio/TFT_Touch_Shield.git
+[submodule "Ethernet_Shield_V2.0"]
+	path = Ethernet_Shield_V2.0
+	url = https://github.com/yexiaobo-seeedstudio/Ethernet_Shield_V2.0.git
